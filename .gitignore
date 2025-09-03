@@ -1,0 +1,18 @@
+# Node
+node_modules
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# Env/секрети
+.env
+.env.*.local
+.env.example
+
+# Build/IDE
+dist
+build
+.DS_Store
+*.log
+.idea
+.vscode
